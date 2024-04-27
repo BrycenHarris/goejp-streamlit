@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 markdown = """
 A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+<https://github.com/BrycenHarris/goejp-streamlit>
 """
 
 st.sidebar.title("About")
@@ -21,5 +21,5 @@ with st.expander("See source code"):
         m.add_basemap("OpenTopoMap")
         m.add_basemap("Esri.WorldImagery")
         m.add_layer_control()
-        
+
 m.to_streamlit(width=1000, height=700)
