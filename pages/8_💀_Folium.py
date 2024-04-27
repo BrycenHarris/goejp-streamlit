@@ -20,4 +20,4 @@ with st.expander("See source code"):
         m = geojp.Map()
         m.add_basemap("OpenTopoMap")
 
-m.to_streamlit(widtd=1000, height=700)
+m.to_streamlit(width=1000, height=700)
