@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 # Customize the sidebar
 markdown = """
 A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+<https://geojp-map.streamlit.app/Folium>
 """
 
 st.sidebar.title("About")
