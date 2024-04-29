@@ -3,7 +3,7 @@ import leafmap.foliumap as leafmap
 
 markdown = """
 A Streamlit map template
-<https://geojp-map.streamlit.app/Folium>
+<https://github.com/BrycenHarris/goejp-streamlit>
 """
 
 st.sidebar.title("About")

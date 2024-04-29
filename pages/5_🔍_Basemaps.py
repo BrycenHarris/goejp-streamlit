@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 markdown = """
 A Streamlit map template
-<https://geojp-map.streamlit.app/Folium>
+<https://github.com/BrycenHarris/goejp-streamlit>
 """
 
 st.sidebar.title("About")
