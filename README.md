@@ -2,7 +2,7 @@
 
 A streamlit template for mapping applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud).
 
-Web App URL: <https://github.com/BrycenHarris/goejp-streamlit>
+Web App URL: <https://geojp-map.streamlit.app/Folium>
 
 ## Instructions
 
